@@ -1,15 +1,11 @@
 # Praktikum8
 # OOP (Object-Oriented Program)
-
-<span style="color: red">Nama : 
-<font color = "white">Dipca anugrah
-
-<span style="color: red">NIM : 
-<font color = "white">312210666
-
-<span style="color: red">Kelas :
-<font color = "white">TI.22.A.4 </font>
-<font color = "white">
+```diff
+Nama  : Dipca Anugrah
+NIM   : 312210666
+Kelas : TI.22.A.4
+```
+$${\color{lightblue}PYTHON}$$
 
 ## Program Class Data_Mahasiswa
 * **Diagram Class**
