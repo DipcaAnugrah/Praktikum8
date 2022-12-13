@@ -1,5 +1,5 @@
 # Praktikum8
-# OOP (Object-Oriented Program)
+# OOP (Object-Oriented Programming)
 ```diff
 Nama  : Dipca Anugrah
 NIM   : 312210666
